@@ -1,0 +1,10 @@
+MONTH|october|2400.0
+EXP|khana - 1500.00 paid by Rabia (Equal)
+EXP|chai - 300.00 paid by Ali (Equal)
+EXP|Travel - 600.00 paid by Asra (Equal)
+PAY|Asra paid Rabia 200.00
+PAY|Ali paid Rabia 500.00
+BAL|Ali|0.0
+BAL|Rabia|0.0
+BAL|Asra|0.0
+END
